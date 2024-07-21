@@ -1,4 +1,5 @@
-<h1>🎰Slot Machine🎰</h1>
-<h2 style="color❎">We Don't support gamplling at all❌</h2>
-<p>I choosed to code this game beacuse it has a lot of functionalty that will help you learn Python and logic</p>
-<p>This is a simple Slot Machine game writtin in Python to practice the language syntax and functionalty </p>
+<center><h1>🎰Slot Machine🎰</h1></center>
+<h2 style="color❎">I Don't support gambling at all❌</h2>
+<p>I've chosen to develop this game because it provides extensive functionality that will facilitate your learning of Python and logic. It's a straightforward Python-based slot machine game to help you practice the language's syntax and features.</p>
+
+<img src="./image.png">
